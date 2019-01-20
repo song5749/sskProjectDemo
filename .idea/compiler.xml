@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ssk-project-demo" />
         <module name="ssk-spring-boot-test" />
         <module name="sskProjectDemo" />
       </profile>
